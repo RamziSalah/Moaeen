@@ -1,0 +1,11 @@
+c:\users\pc\source\repos\HControlPanel\HControlPanel\bin\Debug\HControlPanel.exe.config
+c:\users\pc\source\repos\HControlPanel\HControlPanel\bin\Debug\HControlPanel.exe
+c:\users\pc\source\repos\HControlPanel\HControlPanel\bin\Debug\HControlPanel.pdb
+c:\users\pc\source\repos\HControlPanel\HControlPanel\obj\Debug\HControlPanel.Form1.resources
+c:\users\pc\source\repos\HControlPanel\HControlPanel\obj\Debug\HControlPanel.Properties.Resources.resources
+c:\users\pc\source\repos\HControlPanel\HControlPanel\obj\Debug\HControlPanel.csproj.GenerateResource.cache
+c:\users\pc\source\repos\HControlPanel\HControlPanel\obj\Debug\HControlPanel.csproj.CoreCompileInputs.cache
+c:\users\pc\source\repos\HControlPanel\HControlPanel\obj\Debug\HControlPanel.exe
+c:\users\pc\source\repos\HControlPanel\HControlPanel\obj\Debug\HControlPanel.pdb
+C:\Users\PC\source\repos\HControlPanel\HControlPanel\obj\Debug\HControlPanel.frmViewDocumnet.resources
+C:\Users\PC\source\repos\HControlPanel\HControlPanel\obj\Debug\HControlPanel.csprojAssemblyReference.cache
